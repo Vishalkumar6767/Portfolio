@@ -299,6 +299,8 @@ nav ul li a:hover::after{
 .btn.btn2{
     display: inline-block;
     background: #7700ff;
+    cursor: pointer;
+   
 
 }
 .contact-right form{
